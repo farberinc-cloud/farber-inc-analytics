@@ -1,67 +1,120 @@
 {
-  "report_type": "search_console_baseline",
-  "date_range": "2026-05-31 to 2026-06-30",
+  "report_type": "search_console_and_ga4_baseline",
+  "date_range": "2026-06-25 to 2026-07-02",
   "generated_at": "2026-07-03",
-  "sites": {
-    "farberinc.media": {
+  "data_sources": {
+    "search_console": "Active for 4 sites",
+    "ga4": "Active for 3 properties"
+  },
+  "ga4_property_ids": {
+    "Farber.Inc": "528246119",
+    "Anders NSB": "522083745",
+    "Clear Intentions": "529949489"
+  },
+  "ga4_metrics_7day": {
+    "farber.inc": {
       "label": "Farber.Inc",
-      "total_clicks": 0,
-      "total_impressions": 0,
-      "top_queries": [],
-      "notes": "No search presence yet - new site"
+      "sessions": 15,
+      "users": 14,
+      "pageviews": 23,
+      "channels": {
+        "Direct": {
+          "sessions": 11,
+          "users": 10,
+          "pageviews": 19,
+          "bounce_rate": 72.7,
+          "avg_session_sec": 463
+        },
+        "Organic Social": {
+          "sessions": 3,
+          "users": 3,
+          "pageviews": 3,
+          "bounce_rate": 0.0,
+          "avg_session_sec": 31
+        },
+        "Referral": {
+          "sessions": 1,
+          "users": 1,
+          "pageviews": 1,
+          "bounce_rate": 100.0,
+          "avg_session_sec": 0
+        }
+      },
+      "notes": "New site, mostly direct traffic (people who know URL), some social"
+    },
+    "anders_nsb": {
+      "label": "Anders NSB",
+      "sessions": 3,
+      "users": 3,
+      "pageviews": 3,
+      "channels": {
+        "Direct": {
+          "sessions": 3,
+          "users": 3,
+          "pageviews": 3,
+          "bounce_rate": 66.7,
+          "avg_session_sec": 18
+        }
+      },
+      "notes": "Minimal traffic, all direct"
+    },
+    "clear_intentions": {
+      "label": "Clear Intentions",
+      "sessions": 0,
+      "users": 0,
+      "pageviews": 0,
+      "channels": {},
+      "notes": "GA tag not installed on site yet - need to deploy"
+    }
+  },
+  "search_console_30day": {
+    "farberinc.media": {
+      "clicks": 0,
+      "impressions": 0,
+      "notes": "No search presence"
     },
     "andersnsb.com": {
-      "label": "Anders NSB",
-      "total_clicks": 20,
-      "total_impressions": 72,
+      "clicks": 20,
+      "impressions": 72,
       "avg_position": 2.5,
       "top_queries": [
         {
           "query": "anders and anders financial group",
           "clicks": 9,
-          "impressions": 20,
           "position": 4.8
         },
         {
           "query": "anders financial group",
           "clicks": 6,
-          "impressions": 39,
           "position": 2.1
         },
         {
           "query": "anders and anders",
           "clicks": 3,
-          "impressions": 11,
           "position": 2.9
         },
         {
           "query": "anders & anders",
           "clicks": 1,
-          "impressions": 1,
           "position": 2.0
         },
         {
           "query": "anders consulting",
           "clicks": 1,
-          "impressions": 1,
           "position": 1.0
         }
-      ],
-      "notes": "Strong on branded searches, position 1-5 for all"
+      ]
     },
     "onthetarmac.media": {
-      "label": "On The Tarmac",
-      "total_clicks": 0,
-      "total_impressions": 2,
-      "top_queries": [
-        {
-          "query": "tarmac media",
-          "clicks": 0,
-          "impressions": 2,
-          "position": 9.0
-        }
-      ],
-      "notes": "Minimal presence - 2 impressions only"
+      "clicks": 0,
+      "impressions": 2,
+      "notes": "Minimal presence"
     }
-  }
+  },
+  "next_steps": [
+    "Clear Intentions: install GA4 tag on site",
+    "Farber.Inc: build content foundation (pillar pages + blog posts)",
+    "Anders NSB: research non-branded financial keywords",
+    "Set up monthly automated reporting"
+  ]
 }
