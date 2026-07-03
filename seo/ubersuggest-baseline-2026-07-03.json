@@ -1,0 +1,523 @@
+{
+  "report_type": "comprehensive_baseline_v2",
+  "generated_at": "2026-07-03",
+  "data_sources": {
+    "google_search_console": "Active for 4 sites",
+    "google_ga4": "Active for 3 properties",
+    "ubersuggest_mcp": "Active (tier2 account)"
+  },
+  "ubersuggest_account": {
+    "email": "farber.inc@gmail.com",
+    "tier": "tier2"
+  },
+  "domains": {
+    "farberinc.media": {
+      "domain": "farberinc.media",
+      "organic": 1,
+      "traffic": 1,
+      "paidKeywords": 0,
+      "paidTraffic": 0,
+      "domainAuthority": 1,
+      "backlinks": 4,
+      "refDomains": 2,
+      "follow": 0,
+      "noFollow": 4,
+      "domainTraffic": {
+        "202507": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202508": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202509": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202510": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202511": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202512": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202601": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202602": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202603": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202604": {
+          "paidTraffic": 4,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202605": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 1,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 1,
+          "fourthTier": 0
+        },
+        "202606": {
+          "paidTraffic": 0,
+          "searchTraffic": 1,
+          "paidKw": 0,
+          "searchKw": 1,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 1
+        }
+      },
+      "serviceInfo": {
+        "isConnectedToGA": true,
+        "isConnectedToGSC": true,
+        "isUsingGoogleData": true
+      },
+      "organicKeywords": [
+        {
+          "competition": 0.04,
+          "cpc": 0,
+          "cpcDollars": 0,
+          "domain": "farberinc.media:organic:en:2840",
+          "keyword": "farber online",
+          "path": "/",
+          "position": 67,
+          "type": "organic",
+          "url": "http://farberinc.media/",
+          "volume": 40,
+          "sd": 22,
+          "pd": 4,
+          "position_group": 60,
+          "updated_at": 1781258362,
+          "traffic": 0
+        }
+      ]
+    },
+    "andersnsb.com": {
+      "domain": "andersnsb.com",
+      "organic": 2,
+      "traffic": 0,
+      "paidKeywords": 0,
+      "paidTraffic": 0,
+      "domainAuthority": 6,
+      "backlinks": 39,
+      "refDomains": 30,
+      "follow": 16,
+      "noFollow": 23,
+      "domainTraffic": {
+        "202507": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 8,
+          "topTier": 0,
+          "secondTier": 1,
+          "thirdTier": 4,
+          "fourthTier": 3
+        },
+        "202508": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 7,
+          "topTier": 0,
+          "secondTier": 1,
+          "thirdTier": 3,
+          "fourthTier": 3
+        },
+        "202509": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 5,
+          "topTier": 0,
+          "secondTier": 1,
+          "thirdTier": 2,
+          "fourthTier": 2
+        },
+        "202510": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 5,
+          "topTier": 0,
+          "secondTier": 1,
+          "thirdTier": 4,
+          "fourthTier": 0
+        },
+        "202511": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 12,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 8,
+          "fourthTier": 4
+        },
+        "202512": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 17,
+          "topTier": 1,
+          "secondTier": 2,
+          "thirdTier": 7,
+          "fourthTier": 7
+        },
+        "202601": {
+          "paidTraffic": 0,
+          "searchTraffic": 4,
+          "paidKw": 0,
+          "searchKw": 9,
+          "topTier": 0,
+          "secondTier": 1,
+          "thirdTier": 4,
+          "fourthTier": 4
+        },
+        "202602": {
+          "paidTraffic": 0,
+          "searchTraffic": 36,
+          "paidKw": 0,
+          "searchKw": 7,
+          "topTier": 0,
+          "secondTier": 1,
+          "thirdTier": 2,
+          "fourthTier": 4
+        },
+        "202603": {
+          "paidTraffic": 0,
+          "searchTraffic": 35,
+          "paidKw": 0,
+          "searchKw": 8,
+          "topTier": 0,
+          "secondTier": 1,
+          "thirdTier": 3,
+          "fourthTier": 4
+        },
+        "202604": {
+          "paidTraffic": 0,
+          "searchTraffic": 53,
+          "paidKw": 0,
+          "searchKw": 4,
+          "topTier": 0,
+          "secondTier": 1,
+          "thirdTier": 2,
+          "fourthTier": 1
+        },
+        "202605": {
+          "paidTraffic": 0,
+          "searchTraffic": 25,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202606": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 2,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 1,
+          "fourthTier": 1
+        }
+      },
+      "serviceInfo": {
+        "isConnectedToGA": true,
+        "isConnectedToGSC": true,
+        "isUsingGoogleData": true
+      },
+      "organicKeywords": [
+        {
+          "competition": 0.08,
+          "cpc": 0,
+          "cpcDollars": 0,
+          "domain": "andersnsb.com:organic:en:2840",
+          "keyword": "anders company",
+          "path": "/",
+          "position": 36,
+          "type": "organic",
+          "url": "http://andersnsb.com/",
+          "volume": 40,
+          "sd": 25,
+          "pd": 8,
+          "position_group": 31,
+          "updated_at": 1781368005,
+          "traffic": 0
+        },
+        {
+          "competition": 0.06,
+          "cpc": 3.79,
+          "cpcDollars": 3.79,
+          "domain": "andersnsb.com:organic:en:2840",
+          "keyword": "anders cpa and advisors",
+          "path": "/",
+          "position": 50,
+          "type": "organic",
+          "url": "http://andersnsb.com/",
+          "volume": 40,
+          "sd": 26,
+          "pd": 6,
+          "position_group": 50,
+          "updated_at": 1781365073,
+          "traffic": 0
+        }
+      ]
+    },
+    "clearintentionsww.com": {
+      "domain": "clearintentionsww.com",
+      "organic": 2,
+      "traffic": 0,
+      "paidKeywords": 0,
+      "paidTraffic": 0,
+      "domainAuthority": 1,
+      "backlinks": 4,
+      "refDomains": 2,
+      "follow": 0,
+      "noFollow": 4,
+      "domainTraffic": {
+        "202507": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202508": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202509": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202510": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202511": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202512": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202601": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202602": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202603": {
+          "paidTraffic": 0,
+          "searchTraffic": 3,
+          "paidKw": 0,
+          "searchKw": 1,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 1,
+          "fourthTier": 0
+        },
+        "202604": {
+          "paidTraffic": 0,
+          "searchTraffic": 7,
+          "paidKw": 0,
+          "searchKw": 2,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 2,
+          "fourthTier": 0
+        },
+        "202605": {
+          "paidTraffic": 0,
+          "searchTraffic": 5,
+          "paidKw": 0,
+          "searchKw": 0,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 0,
+          "fourthTier": 0
+        },
+        "202606": {
+          "paidTraffic": 0,
+          "searchTraffic": 0,
+          "paidKw": 0,
+          "searchKw": 2,
+          "topTier": 0,
+          "secondTier": 0,
+          "thirdTier": 2,
+          "fourthTier": 0
+        }
+      },
+      "serviceInfo": {
+        "isConnectedToGA": true,
+        "isConnectedToGSC": false,
+        "isUsingGoogleData": true
+      },
+      "organicKeywords": [
+        {
+          "competition": 0.13,
+          "cpc": 2.7,
+          "cpcDollars": 2.7,
+          "domain": "clearintentionsww.com:organic:en:2840",
+          "keyword": "sierra vista window cleaning",
+          "path": "/index.html",
+          "position": 9,
+          "type": "organic",
+          "url": "http://clearintentionsww.com/index.html",
+          "volume": 40,
+          "sd": 23,
+          "pd": 13,
+          "position_group": 9,
+          "updated_at": 1780909307,
+          "traffic": 1
+        },
+        {
+          "competition": 0.47,
+          "cpc": 4.39,
+          "cpcDollars": 4.39,
+          "domain": "clearintentionsww.com:organic:en:2840",
+          "keyword": "cleaning services sierra vista",
+          "path": "/index.html",
+          "position": 27,
+          "type": "organic",
+          "url": "http://clearintentionsww.com/index.html",
+          "volume": 40,
+          "sd": 24,
+          "pd": 47,
+          "position_group": 21,
+          "updated_at": 1781582085,
+          "traffic": 0
+        }
+      ]
+    }
+  }
+}
