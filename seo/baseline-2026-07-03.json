@@ -1,0 +1,67 @@
+{
+  "report_type": "search_console_baseline",
+  "date_range": "2026-05-31 to 2026-06-30",
+  "generated_at": "2026-07-03",
+  "sites": {
+    "farberinc.media": {
+      "label": "Farber.Inc",
+      "total_clicks": 0,
+      "total_impressions": 0,
+      "top_queries": [],
+      "notes": "No search presence yet - new site"
+    },
+    "andersnsb.com": {
+      "label": "Anders NSB",
+      "total_clicks": 20,
+      "total_impressions": 72,
+      "avg_position": 2.5,
+      "top_queries": [
+        {
+          "query": "anders and anders financial group",
+          "clicks": 9,
+          "impressions": 20,
+          "position": 4.8
+        },
+        {
+          "query": "anders financial group",
+          "clicks": 6,
+          "impressions": 39,
+          "position": 2.1
+        },
+        {
+          "query": "anders and anders",
+          "clicks": 3,
+          "impressions": 11,
+          "position": 2.9
+        },
+        {
+          "query": "anders & anders",
+          "clicks": 1,
+          "impressions": 1,
+          "position": 2.0
+        },
+        {
+          "query": "anders consulting",
+          "clicks": 1,
+          "impressions": 1,
+          "position": 1.0
+        }
+      ],
+      "notes": "Strong on branded searches, position 1-5 for all"
+    },
+    "onthetarmac.media": {
+      "label": "On The Tarmac",
+      "total_clicks": 0,
+      "total_impressions": 2,
+      "top_queries": [
+        {
+          "query": "tarmac media",
+          "clicks": 0,
+          "impressions": 2,
+          "position": 9.0
+        }
+      ],
+      "notes": "Minimal presence - 2 impressions only"
+    }
+  }
+}
